@@ -9,16 +9,11 @@
             "email": "bharat.jain325@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {
-
-    },
     "autoload": {
         "psr-4": {
             "Clickatell\\": "src/"
         }
     },
-    "prefer-stable": true,
     "extra": {
         "laravel": {
             "providers": [
