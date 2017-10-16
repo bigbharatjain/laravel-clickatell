@@ -8,16 +8,7 @@ Integrate Clickatell in your laravel application and send sms using this package
 ## Getting Started
 To get started add the following package to your `composer.json` file.
 
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/bigbharatjain/clickatell.git"
-        }
-    ],
-    "require": {
-        //other packages
-        "bigbharatjain/clickatell": "dev-master"
-    },
+    composer require bigbharatjain/laravel-clickatell
 
 ## Configuring
 When composer installs Clickatell library successfully, register the `Clickatell\ClickatellServiceProvider` in your `config/app.php` configuration file.
