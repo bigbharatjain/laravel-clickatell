@@ -99,4 +99,4 @@ Rest::parseReplyCallback(function ($result) {
 
 ## Issues/Contributions
 
-Found a bug or missing a feature? Log it [here](https://github.com/bigbharatjain/clickatell/issues) and I will take a look.
+Found a bug or missing a feature? Log it [here](https://github.com/bigbharatjain/laravel-clickatell/issues) and I will take a look.
